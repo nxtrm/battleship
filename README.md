@@ -1,4 +1,4 @@
-# battleship
+# Battleship (Old)
 A simple python battleship game built with customTkinter.
 
 It was one of my first proper python projects
